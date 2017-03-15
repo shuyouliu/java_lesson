@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cn.shuyouliu.test;
+package cn.shuyouliu.anno;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
